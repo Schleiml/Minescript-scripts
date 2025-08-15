@@ -23,7 +23,7 @@ A collection of automation scripts for Minecraft using Minescript. These scripts
 
 ## Credits
 
-Be sure to check out **Razorcraft** and **Maxuser**, the creators behind Minescript and related tools.
+Be sure to check out [**Razorcraft** (R4z0rX)](https://github.com/R4z0rX) and [**Maxuser** (maxuser0)](https://github.com/maxuser0), the creators behind Minescript and related tools.
 
 ## Contributing
 
